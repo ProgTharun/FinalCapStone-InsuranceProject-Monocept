@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ProgTharun/Mono-Project-Insurance-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ProgTharun/Mono-Project-Insurance-FrontEnd.git
